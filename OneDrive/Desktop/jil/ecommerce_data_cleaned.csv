@@ -1,0 +1,146 @@
+Order_ID,Customer_Name,Product,Category,Price,Quantity,Total_Sales,City,Payment_Method,Order_Status,Gender,Age,Order_Date,Device,Customer_Rating
+1001,Customer_001,Notebook,Books,2499.0,5,12495.0,Delhi,Credit Card,Pending,Male,28,2026-08-21,Tablet,5.0
+1002,Customer_002,Sneakers,Clothing,1499.0,2,2998.0,Coimbatore,Cash,Delivered,Male,29,2026-06-12,Mobile,1.0
+1003,Customer_003,Bottle,Home,4999.0,4,19996.0,Mumbai,Debit Card,Cancelled,Male,20,2026-05-19,Tablet,5.0
+1004,Customer_004,Smart Watch,Electronics,899.0,1,899.0,Mumbai,Credit Card,Shipped,Male,43,2026-05-02,Tablet,4.0
+1005,Customer_005,Notebook,Books,2499.0,3,7497.0,Pune,UPI,Cancelled,Female,21,2026-02-06,Laptop,2.0
+1006,Customer_006,Notebook,Books,499.0,2,998.0,Mumbai,Credit Card,Shipped,Female,53,2026-08-14,Tablet,4.0
+1007,Customer_007,Speaker,Electronics,499.0,5,2495.0,Coimbatore,Credit Card,Delivered,Female,46,2026-01-25,Tablet,1.0
+1008,Customer_008,Mouse,Electronics,2499.0,3,7497.0,Unknown,UPI,Cancelled,Male,52,2026-01-27,Mobile,2.0
+1009,Customer_009,T-Shirt,Clothing,1999.0,1,1999.0,Coimbatore,Cash,Shipped,Male,40,2026-08-05,Tablet,4.0
+1010,Customer_010,Yoga Mat,Sports,699.0,1,699.0,Hyderabad,Net Banking,Pending,Female,20,2026-01-05,Laptop,3.0
+1011,Customer_011,Smart Watch,Electronics,4999.0,4,19996.0,Delhi,Debit Card,Pending,Female,49,2026-04-05,Tablet,5.0
+1012,Customer_012,Table,Home,899.0,5,4495.0,Coimbatore,Debit Card,Pending,Female,45,2026-02-10,Mobile,1.0
+1013,Customer_013,Perfume,Beauty,899.0,3,2697.0,Coimbatore,Credit Card,Pending,Female,42,2026-07-01,Mobile,1.0
+1014,Customer_014,Lamp,Home,899.0,5,4495.0,Chennai,Debit Card,Pending,Female,25,2026-09-05,Mobile,3.0
+1015,Customer_015,Sneakers,Clothing,2499.0,3,7497.0,Pune,UPI,Cancelled,Male,29,2026-07-02,Tablet,1.0
+1016,Customer_016,Face Wash,Beauty,1199.0,1,1199.0,Hyderabad,UPI,Shipped,Female,45,2026-06-23,Mobile,1.0
+1017,Customer_017,Keyboard,Electronics,499.0,5,2495.0,Mumbai,Credit Card,Cancelled,Female,49,2026-07-04,Tablet,3.0
+1018,Customer_018,Lamp,Home,1499.0,5,7495.0,Mumbai,Credit Card,Shipped,Female,28,2026-01-09,Tablet,5.0
+1019,Customer_019,Cushion,Home,899.0,3,2697.0,Bangalore,Debit Card,Pending,Male,37,2026-07-20,Mobile,1.0
+1020,Customer_020,T-Shirt,Clothing,3499.0,1,3499.0,Bangalore,Credit Card,Pending,Male,33,2026-09-20,Mobile,2.0
+1021,Customer_021,Mouse,Electronics,1199.0,5,5995.0,Coimbatore,Debit Card,Pending,Male,52,2026-03-16,Tablet,4.0
+1022,Customer_022,Football,Sports,2499.0,4,9996.0,Hyderabad,UPI,Cancelled,Female,37,2026-03-16,Laptop,1.0
+1023,Customer_023,Lamp,Home,499.0,2,998.0,Bangalore,Debit Card,Cancelled,Male,53,2026-01-04,Mobile,5.0
+1024,Customer_024,Comics,Books,299.0,1,299.0,Coimbatore,Unknown,Pending,Male,39,2026-07-22,Laptop,5.0
+1025,Customer_025,Bottle,Home,499.0,5,2495.0,Pune,UPI,Cancelled,Male,50,2026-05-16,Tablet,4.0
+1026,Customer_026,Lamp,Home,299.0,4,1196.0,Mumbai,Net Banking,Shipped,Male,23,2026-03-09,Mobile,5.0
+1027,Customer_027,Speaker,Electronics,699.0,4,2796.0,Chennai,Cash,Pending,Male,38,2026-07-01,Tablet,2.0
+1028,Customer_028,Smart Watch,Electronics,1499.0,2,2998.0,Hyderabad,Credit Card,Cancelled,Male,39,2026-07-02,Tablet,3.0
+1029,Customer_029,Jeans,Clothing,4999.0,1,4999.0,Coimbatore,UPI,Delivered,Male,46,2026-07-26,Tablet,2.0
+1030,Customer_030,Speaker,Electronics,4999.0,1,4999.0,Mumbai,Net Banking,Cancelled,Male,25,2026-03-23,Tablet,4.0
+1031,Customer_031,Jeans,Clothing,1999.0,3,5997.0,Chennai,Credit Card,Pending,Female,39,2026-06-17,Laptop,3.0
+1032,Customer_032,Notebook,Books,299.0,5,1495.0,Mumbai,Cash,Cancelled,Male,21,2026-06-13,Laptop,3.0
+1033,Customer_033,Notebook,Books,499.0,4,1996.0,Bangalore,Debit Card,Delivered,Female,36,2026-07-26,Mobile,2.0
+1034,Customer_034,Face Wash,Beauty,1199.0,1,1199.0,Bangalore,Credit Card,Delivered,Male,51,2026-06-16,Mobile,5.0
+1035,Customer_035,Face Wash,Beauty,1999.0,5,9995.0,Pune,Net Banking,Pending,Male,29,2026-03-05,Laptop,1.0
+1036,Customer_036,Perfume,Beauty,1199.0,1,1199.0,Pune,Cash,Delivered,Female,33,2026-05-07,Mobile,5.0
+1037,Customer_037,Jeans,Clothing,1499.0,5,7495.0,Mumbai,Credit Card,Cancelled,Male,27,2026-03-26,Mobile,5.0
+1038,Customer_038,Perfume,Beauty,2499.0,2,4998.0,Chennai,Cash,Cancelled,Female,44,2026-04-24,Laptop,3.0
+1039,Customer_039,Novel,Books,299.0,5,1495.0,Hyderabad,Debit Card,Delivered,Female,20,2026-01-01,Laptop,3.0
+1040,Customer_040,Notebook,Books,499.0,5,2495.0,Hyderabad,Credit Card,Pending,Male,34,2026-08-26,Laptop,2.0
+1041,Customer_041,Cricket Bat,Sports,699.0,1,699.0,Kochi,Cash,Shipped,Male,28,2026-08-04,Mobile,5.0
+1042,Customer_042,Face Wash,Beauty,899.0,2,1798.0,Delhi,UPI,Cancelled,Female,52,2026-01-03,Laptop,1.0
+1043,Customer_043,Skipping Rope,Unknown,299.0,5,1495.0,Kochi,UPI,Pending,Male,47,2026-01-17,Laptop,4.0
+1044,Customer_044,Speaker,Electronics,699.0,1,699.0,Mumbai,Cash,Delivered,Male,36,2026-09-07,Laptop,4.0
+1045,Customer_045,Chair,Home,1199.0,5,5995.0,Hyderabad,Cash,Delivered,Female,38,2026-04-21,Tablet,1.0
+1046,Customer_046,Sunscreen,Beauty,4999.0,2,9998.0,Kochi,Credit Card,Delivered,Male,40,2026-02-15,Mobile,2.0
+1047,Customer_047,Sneakers,Clothing,299.0,5,1495.0,Pune,Net Banking,Cancelled,Female,26,2026-02-27,Laptop,2.0
+1048,Customer_048,Sunscreen,Beauty,1199.0,3,3597.0,Coimbatore,Net Banking,Delivered,Female,34,2026-07-25,Mobile,4.0
+1049,Customer_049,Magazine,Books,699.0,5,3495.0,Mumbai,Debit Card,Shipped,Female,36,2026-07-03,Mobile,5.0
+1050,Customer_050,Sneakers,Clothing,4999.0,4,19996.0,Mumbai,Net Banking,Pending,Male,18,2026-03-13,Laptop,1.0
+1051,Customer_051,Novel,Books,3499.0,1,3499.0,Pune,Net Banking,Shipped,Female,49,2026-05-16,Laptop,5.0
+1052,Customer_052,Cushion,Home,1199.0,4,4796.0,Hyderabad,Debit Card,Cancelled,Male,34,2026-09-17,Laptop,1.0
+1053,Customer_053,Moisturizer,Beauty,1999.0,1,1999.0,Hyderabad,Cash,Shipped,Female,33,2026-08-06,Mobile,2.0
+1054,Customer_054,Magazine,Books,4999.0,2,9998.0,Mumbai,Credit Card,Cancelled,Female,54,2026-09-04,Tablet,1.0
+1055,Customer_055,Headphones,Electronics,1199.0,4,4796.0,Delhi,Cash,Cancelled,Male,30,2026-03-06,Laptop,3.0
+1056,Customer_056,Face Wash,Beauty,499.0,2,998.0,Coimbatore,Credit Card,Pending,Male,22,2026-07-24,Mobile,1.0
+1057,Customer_057,T-Shirt,Clothing,1199.0,2,2398.0,Kochi,UPI,Shipped,Male,44,2026-01-13,Mobile,2.0
+1058,Customer_058,Keyboard,Electronics,299.0,5,1495.0,Coimbatore,Cash,Delivered,Male,48,2026-05-06,Tablet,5.0
+1059,Customer_059,Sunscreen,Beauty,1199.0,2,2398.0,Bangalore,Debit Card,Delivered,Male,31,2026-09-14,Mobile,3.0
+1060,Customer_060,Sunscreen,Beauty,899.0,1,899.0,Chennai,Credit Card,Cancelled,Male,25,2026-07-26,Laptop,2.0
+1061,Customer_061,Yoga Mat,Sports,499.0,4,1996.0,Chennai,Cash,Delivered,Female,47,2026-09-17,Tablet,5.0
+1062,Customer_062,Shampoo,Beauty,699.0,4,2796.0,Bangalore,Credit Card,Shipped,Female,47,2026-03-02,Mobile,1.0
+1063,Customer_063,Textbook,Books,699.0,1,699.0,Delhi,Net Banking,Cancelled,Female,34,2026-01-20,Mobile,2.0
+1064,Customer_064,Skipping Rope,Sports,499.0,5,2495.0,Pune,Debit Card,Pending,Female,28,2026-03-15,Mobile,3.0
+1065,Customer_065,Unknown Product,Sports,2499.0,4,9996.0,Coimbatore,UPI,Pending,Female,20,2026-02-26,Tablet,3.0
+1066,Customer_066,Sunscreen,Beauty,499.0,4,1996.0,Bangalore,Net Banking,Shipped,Male,23,2026-01-05,Mobile,4.0
+1067,Customer_067,Jeans,Clothing,299.0,2,598.0,Delhi,Debit Card,Delivered,Female,39,2026-08-11,Tablet,5.0
+1068,Customer_068,Smart Watch,Electronics,899.0,1,899.0,Coimbatore,UPI,Pending,Male,32,2026-08-22,Laptop,2.0
+1069,Customer_069,Textbook,Books,4999.0,3,14997.0,Coimbatore,Debit Card,Pending,Male,40,2026-02-26,Laptop,3.0
+1070,Customer_070,Lamp,Home,1999.0,5,9995.0,Mumbai,Credit Card,Pending,Male,34,2026-07-22,Laptop,4.0
+1071,Customer_071,Headphones,Electronics,899.0,1,899.0,Mumbai,Credit Card,Pending,Male,35,2026-04-15,Laptop,2.0
+1072,Customer_072,Mouse,Electronics,699.0,2,1398.0,Chennai,Net Banking,Shipped,Female,43,2026-02-27,Tablet,5.0
+1073,Customer_073,Skipping Rope,Sports,3499.0,1,3499.0,Delhi,Net Banking,Shipped,Female,21,2026-08-23,Mobile,3.0
+1074,Customer_074,Table,Home,899.0,2,1798.0,Mumbai,Cash,,Female,32,2026-06-22,Mobile,3.0
+1075,Customer_075,Football,Sports,499.0,3,1497.0,Coimbatore,Credit Card,Pending,Male,22,2026-06-26,Laptop,4.0
+1076,Customer_076,Cushion,Home,299.0,4,1196.0,Chennai,Cash,Pending,Male,43,2026-06-05,Laptop,3.0
+1077,Customer_077,Notebook,Books,699.0,1,699.0,Pune,Credit Card,Cancelled,Female,22,2026-07-10,Laptop,5.0
+1078,Customer_078,Sneakers,Clothing,299.0,5,1495.0,Chennai,UPI,Delivered,Male,32,2026-08-06,Tablet,3.0
+1079,Customer_079,Football,Sports,1199.0,4,4796.0,Mumbai,Credit Card,Shipped,Male,28,2026-09-02,Tablet,3.0
+1080,Customer_080,Mouse,Electronics,2499.0,3,7497.0,Chennai,Net Banking,Shipped,Female,47,2026-03-21,Mobile,5.0
+1081,Customer_081,Bottle,Home,4999.0,4,19996.0,Chennai,Net Banking,Shipped,Male,35,2026-08-08,Tablet,3.0
+1082,Customer_082,Face Wash,Beauty,1999.0,1,1999.0,Chennai,UPI,Delivered,Male,19,2026-05-08,Tablet,3.0
+1083,Customer_083,Yoga Mat,Sports,1999.0,3,5997.0,Coimbatore,Credit Card,Cancelled,Female,32,2026-01-20,Laptop,3.0
+1084,Customer_084,Notebook,Books,1499.0,1,1499.0,Chennai,Net Banking,Delivered,Male,50,2026-04-22,Laptop,2.0
+1085,Customer_085,Moisturizer,Beauty,4999.0,1,4999.0,Pune,Net Banking,Pending,Male,53,2026-08-20,Tablet,5.0
+1086,Customer_086,Sunscreen,Beauty,899.0,4,3596.0,Delhi,Credit Card,Pending,Male,53,2026-04-26,Tablet,3.0
+1087,Customer_087,Perfume,Beauty,4999.0,3,14997.0,Pune,Debit Card,Cancelled,Female,30,2026-08-18,Mobile,1.0
+1088,Customer_088,Comics,Books,899.0,4,3596.0,Delhi,Net Banking,Cancelled,Male,45,2026-09-22,Tablet,5.0
+1089,Customer_089,Football,Sports,1499.0,3,4497.0,Kochi,UPI,Shipped,Male,38,2026-04-22,Tablet,1.0
+1090,Customer_090,Keyboard,Electronics,2499.0,5,12495.0,Kochi,UPI,Delivered,Male,27,2026-04-25,Mobile,2.0
+1091,Customer_091,Keyboard,Electronics,899.0,1,899.0,Bangalore,Debit Card,Shipped,Female,24,2026-02-27,Laptop,3.0
+1092,Customer_092,Keyboard,Electronics,699.0,1,699.0,Kochi,Cash,Shipped,Male,41,2026-01-17,Mobile,3.0
+1093,Customer_093,Cricket Bat,Sports,499.0,5,2495.0,Chennai,UPI,Cancelled,Male,37,2026-06-22,Tablet,5.0
+1094,Customer_094,Headphones,Electronics,1999.0,3,5997.0,Hyderabad,Debit Card,Shipped,Female,47,2026-01-13,Mobile,3.0
+1095,Customer_095,T-Shirt,Clothing,699.0,2,1398.0,Bangalore,Cash,Delivered,Female,47,2026-06-19,Tablet,4.0
+1096,Customer_096,Speaker,Electronics,1999.0,3,5997.0,Coimbatore,Credit Card,Shipped,Male,51,2026-01-23,Tablet,4.0
+1097,Customer_097,Hoodie,Clothing,2499.0,1,2499.0,Chennai,Debit Card,Cancelled,Male,25,2026-06-25,Tablet,5.0
+1098,Customer_098,Bottle,Home,299.0,4,1196.0,Kochi,Credit Card,Pending,,41,2026-08-14,Tablet,4.0
+1099,Customer_099,Notebook,Books,1499.0,5,7495.0,Pune,Credit Card,Pending,Female,24,2026-01-23,Mobile,3.0
+1100,Customer_100,Moisturizer,Beauty,899.0,5,4495.0,Mumbai,Credit Card,Shipped,Male,22,2026-04-11,Laptop,2.0
+1101,Customer_101,Cushion,Home,899.0,5,4495.0,Delhi,UPI,Shipped,Male,52,2026-04-26,Laptop,4.0
+1102,Customer_102,Smart Watch,Electronics,2499.0,3,7497.0,Pune,UPI,Shipped,Male,34,2026-09-08,Laptop,5.0
+1103,Customer_103,Headphones,Electronics,1499.0,3,4497.0,Pune,Cash,Shipped,Female,46,2026-02-23,Mobile,3.0
+1104,Customer_104,Cricket Bat,Sports,1199.0,2,2398.0,Mumbai,UPI,Shipped,Female,34,2026-05-25,Laptop,2.0
+1105,Customer_105,Notebook,Books,4999.0,5,24995.0,Hyderabad,UPI,Pending,Female,44,2026-08-02,Mobile,1.0
+1106,Customer_106,Shampoo,Beauty,299.0,2,598.0,Delhi,Cash,Shipped,Female,19,2026-06-11,Mobile,3.0
+1107,Customer_107,Perfume,Beauty,699.0,2,1398.0,Delhi,Net Banking,Pending,Female,28,2026-04-17,Tablet,3.0
+1108,Customer_108,Cricket Bat,Sports,1999.0,5,9995.0,Coimbatore,UPI,Shipped,Female,37,2026-03-03,Tablet,1.0
+1109,Customer_109,Yoga Mat,Sports,499.0,1,499.0,Bangalore,Credit Card,Delivered,Male,26,2026-01-01,Mobile,1.0
+1110,Customer_110,Moisturizer,Beauty,2499.0,2,4998.0,Chennai,Debit Card,Pending,Female,54,2026-03-06,Laptop,4.0
+1111,Customer_111,Table,Home,299.0,5,1495.0,Chennai,Credit Card,Delivered,Male,29,2026-08-19,Tablet,5.0
+1112,Customer_112,Speaker,Electronics,1499.0,1,1499.0,Bangalore,UPI,Cancelled,Male,43,2026-09-13,Laptop,2.0
+1113,Customer_113,Smart Watch,Electronics,1199.0,2,2398.0,Kochi,Net Banking,Pending,Male,25,2026-02-27,Tablet,5.0
+1114,Customer_114,Sneakers,Clothing,1999.0,3,5997.0,Bangalore,Debit Card,Shipped,Male,34,2026-08-03,Mobile,2.0
+1115,Customer_115,Table,Home,2499.0,2,4998.0,Kochi,Cash,Pending,Male,21,2026-06-25,Mobile,2.0
+1116,Customer_116,Speaker,Electronics,4999.0,4,19996.0,Pune,Credit Card,Pending,Male,51,2026-07-13,Mobile,2.0
+1117,Customer_117,Bottle,Home,1999.0,4,7996.0,Delhi,UPI,Delivered,Female,33,2026-08-12,Tablet,1.0
+1118,Customer_118,T-Shirt,Clothing,1999.0,4,7996.0,Delhi,UPI,Shipped,Male,20,2026-08-18,Laptop,5.0
+1119,Customer_119,Headphones,Electronics,1199.0,1,1199.0,Kochi,UPI,Delivered,Female,21,2026-05-05,Tablet,4.0
+1120,Customer_120,Yoga Mat,Sports,499.0,1,499.0,Kochi,Cash,Cancelled,Male,25,2026-04-22,,3.0
+1121,Customer_121,Shampoo,Beauty,499.0,1,499.0,Bangalore,UPI,Delivered,Female,20,2026-08-06,Mobile,5.0
+1122,Customer_122,Football,Sports,3499.0,3,10497.0,Mumbai,Credit Card,Delivered,Male,52,2026-02-18,Laptop,1.0
+1123,Customer_123,Bottle,Home,1499.0,5,7495.0,Coimbatore,Net Banking,Pending,Male,26,2026-04-14,Mobile,2.0
+1124,Customer_124,Lamp,Home,2499.0,3,7497.0,Hyderabad,Cash,Delivered,Male,20,2026-09-02,Laptop,1.0
+1125,Customer_125,Speaker,Electronics,499.0,4,1996.0,Kochi,Debit Card,Delivered,Female,43,2026-02-06,Mobile,4.0
+1126,Customer_126,Perfume,Beauty,1199.0,5,5995.0,Chennai,Credit Card,Cancelled,Male,49,2026-03-26,Tablet,2.0
+1127,Customer_127,Table,Home,299.0,3,897.0,Coimbatore,Cash,Delivered,Male,30,2026-09-21,Laptop,4.0
+1128,Unknown,Cushion,Home,1999.0,5,9995.0,Hyderabad,Net Banking,Shipped,Male,48,2026-07-10,Laptop,3.0
+1129,Customer_129,Shampoo,Beauty,899.0,2,1798.0,Pune,Net Banking,Delivered,Female,19,2026-01-09,Mobile,2.0
+1130,Customer_130,Notebook,Books,699.0,3,2097.0,Pune,Credit Card,Delivered,Female,51,2026-05-22,Laptop,4.0
+1131,Customer_131,Lamp,Home,1499.0,1,1499.0,Bangalore,UPI,Shipped,Female,35,2026-02-14,Tablet,5.0
+1132,Customer_132,Magazine,Books,699.0,4,2796.0,Delhi,Cash,Pending,Male,28,2026-01-06,Tablet,3.0
+1133,Customer_133,Chair,Home,1999.0,2,3998.0,Bangalore,Credit Card,Delivered,Female,34,2026-03-13,Mobile,5.0
+1134,Customer_134,Moisturizer,Beauty,899.0,2,1798.0,Kochi,Cash,Shipped,Male,44,2026-03-17,Laptop,4.0
+1135,Customer_135,Notebook,Books,1199.0,5,5995.0,Hyderabad,Cash,Shipped,Male,22,2026-03-27,Mobile,2.0
+1136,Customer_136,Textbook,Books,699.0,1,699.0,Chennai,Cash,Shipped,Male,33,2026-08-14,Mobile,1.0
+1137,Customer_137,Sunscreen,Beauty,2499.0,3,7497.0,Pune,Credit Card,Cancelled,Male,20,2026-05-24,Laptop,3.0
+1138,Customer_138,Novel,Books,1999.0,1,1999.0,Pune,Cash,Cancelled,Female,26,2026-06-16,Mobile,4.0
+1139,Customer_139,Skipping Rope,Sports,1199.0,2,2398.0,Coimbatore,Debit Card,Cancelled,Male,34,2026-08-21,Laptop,2.0
+1140,Customer_140,Yoga Mat,Sports,3499.0,1,3499.0,Mumbai,UPI,Cancelled,Male,39,2026-03-24,Mobile,1.0
+1141,Customer_141,Novel,Books,1499.0,4,5996.0,Mumbai,UPI,Shipped,Female,49,2026-02-01,Laptop,1.0
+1142,Customer_142,Headphones,Electronics,299.0,5,1495.0,Mumbai,Credit Card,Shipped,Male,19,2026-06-07,Laptop,2.0
+1143,Customer_143,Jeans,Clothing,4999.0,4,19996.0,Chennai,Debit Card,Delivered,Male,23,2026-09-06,Mobile,1.0
+1144,Customer_144,Sneakers,Clothing,2499.0,2,4998.0,Mumbai,Cash,Shipped,Male,24,2026-04-16,Laptop,2.0
+1145,Customer_145,Cricket Bat,Sports,699.0,1,699.0,Mumbai,Credit Card,Shipped,Male,35,2026-06-12,Tablet,4.0
